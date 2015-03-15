@@ -1,0 +1,6 @@
+{
+  "name": "queueservice",
+  "version": "10.3.1",
+  "description": "An example module to illustrate the usage of a package.json",
+  "author": "Benjamin"
+}
