@@ -3,7 +3,7 @@
   "description": "QueueService",
   "main": "server.js",
   "scripts": {
-    "start": "node QueueWebServer.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "~1.9.0",
